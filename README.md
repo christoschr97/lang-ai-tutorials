@@ -1,4 +1,4 @@
-# Word Embedding and NLP Models
+# Word Embedding and LAnguage AI Models - Simple Tutorials
 
 This repository contains implementations of fundamental NLP models, starting from basic word representations to advanced architectures.
 
