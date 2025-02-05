@@ -68,8 +68,6 @@ for epoch in range(100):
 		target_idx = torch.LongTensor([word_to_idx[target_word]])
 		context_idx = torch.LongTensor([word_to_idx[context_word]])
 		
-		# pdb.set_trace()
-
 		logits = model(target_idx)
 		loss = loss_fn(logits, context_idx)
 
