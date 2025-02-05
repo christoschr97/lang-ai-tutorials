@@ -1,11 +1,3 @@
-
-# Here we will learn how language is represented numerically
-# In the course these are called non transformer models
-
-# Bag of words tdo not consider the semantic nature of text
-
-# Lets create the Embedding layer from pytorch in order to understa
-
 import torch
 import torch.nn as nn
 import pdb
